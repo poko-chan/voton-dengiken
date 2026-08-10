@@ -34,6 +34,6 @@ Voton Dengikenとは、
 
 そして、入部したらhttps://voton-dengiken.vercel.app/ にアクセスして利用を開始してください！
 
-著:MCJP_(MCJAPAN)
-企画:Poko-chan,MCJP_(MCJAPAN)
+著:きつねいろ(foxsign)
+企画:Poko-chan,きつねいろ(foxsign)
 
